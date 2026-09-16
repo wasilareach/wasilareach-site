@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wasila Reach – Connecting Brands with DIY Creators</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f9f9f9; color:#333; }
+    header { background:#222; color:#fff; padding:20px; text-align:center; }
+    nav a { color:#fff; margin:0 15px; text-decoration:none; }
+    section { padding:40px; max-width:900px; margin:auto; }
+    h1, h2 { color:#222; }
+    .cta { background:#007BFF; color:#fff; padding:12px 20px; text-decoration:none; border-radius:5px; }
+    footer { background:#222; color:#fff; text-align:center; padding:20px; margin-top:40px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Wasila Reach</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Wasila Reach is a halal-first influencer marketing agency founded by Akram. 
+    We connect trusted brands with male DIY creators, ensuring authentic, value-driven collaborations.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Influencer Outreach & Campaign Management</li>
+      <li>Halal-Compliant Brand Partnerships</li>
+      <li>DIY Creator Network Expansion</li>
+      <li>Mentor-Style Outreach Systems</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:info@wasilareach.com">info@wasilareach.com</a></p>
+    <p>Domain: <a href="https://wasilareach.com">wasilareach.com</a></p>
+    <a class="cta" href="mailto:info@wasilareach.com">Start a Collaboration</a>
+  </section>
+
+  <footer>
+    <p>© 2026 Wasila Reach – Connecting Brands with DIY Creators</p>
+  </footer>
+</body>
+</html>
